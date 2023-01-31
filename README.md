@@ -123,34 +123,6 @@ Alternatively, you can post questions in the [FaceSwap Forum](https://faceswap.d
 # Donate
 The developers work tirelessly to improve and develop FaceSwap. Many hours have been put in to provide the software as it is today, but this is an extremely time-consuming process with no financial reward. If you enjoy using the software, please consider donating to the devs, so they can spend more time implementing improvements.
 
-## Patreon
-The best way to support us is through our Patreon page:
-
-[![become-a-patron](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=23238350)
-
-## One time Donations
-Alternatively you can give a one off donation to any of our Devs:
-### @torzdf
- There is very little FaceSwap code that hasn't been touched by torzdf. He is responsible for implementing the GUI, FAN aligner, MTCNN detector and porting the Villain, DFL-H128 and DFaker models to FaceSwap, as well as significantly improving many areas of the code.
-
-**Bitcoin:** bc1qpm22suz59ylzk0j7qk5e4c7cnkjmve2rmtrnc6
-
-**Ethereum:** 0xd3e954dC241B87C4E8E1A801ada485DC1d530F01
-
-**Monero:** 45dLrtQZ2pkHizBpt3P3yyJKkhcFHnhfNYPMSnz3yVEbdWm3Hj6Kr5TgmGAn3Far8LVaQf1th2n3DJVTRkfeB5ZkHxWozSX
-
-**Paypal:** [![torzdf](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JZ8PP3YE9J62L)
-
-### @andenixa
-Creator of the Unbalanced and OHR models, as well as expanding various capabilities within the training process. Andenixa is currently working on new models and will take requests for donations.
-
-**Paypal:** [![andenixa](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NRVLQYGS6NWTU)
-
-# How to contribute
-
-## For people interested in the generative models
- - Go to the 'faceswap-model' to discuss/suggest/commit alternatives to the current algorithm.
-
 ## For devs
  - Read this README entirely
  - Fork the repo
