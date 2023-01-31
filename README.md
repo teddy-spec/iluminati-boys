@@ -42,7 +42,7 @@ Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
 - [About machine learning](#about-machine-learning)
   - [How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?](#how-does-a-computer-know-how-to-recognizeshape-faces-how-does-machine-learning-work-what-is-a-neural-network)
 
-# Manifesto
+# Synopsis
 
 ## FaceSwap has ethical uses.
 
