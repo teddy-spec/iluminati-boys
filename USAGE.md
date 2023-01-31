@@ -189,4 +189,4 @@ ffmpeg -i video-frame-%0d.png -c:v libx264 -vf "fps=25,format=yuv420p" out.mp4
 # Notes
 This guide is far from complete. Functionality may change over time, and new dependencies are added and removed as time goes on. 
 
-If you are experiencing issues, please raise them in the [faceswap Forum](https://faceswap.dev/forum) or the [FaceSwap Discord server](https://discord.gg/FdEwxXd). Usage questions raised in this repo are likely to be closed without response.
+If you are experiencing issues, please raise them in the [faceswap Forum](https://faceswap.dev/forum) . Usage questions raised in this repo are likely to be closed without response.
