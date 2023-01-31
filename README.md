@@ -139,13 +139,4 @@ The joshua-wu repo seems not active. Simple bugs like missing _http://_ in front
 ## What if /u/deepfakes feels bad about that?
 This is a friendly typosquat, and it is fully dedicated to the project. If /u/deepfakes wants to take over this repo/user and drive the project, he is welcomed to do so (Raise an issue, and he will be contacted on Reddit). Please do not send /u/deepfakes messages for help with the code you find here.
 
-# About machine learning
-
-## How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?
-It's complicated. Here's a good video that makes the process understandable:
-[![How Machines Learn](https://img.youtube.com/vi/R9OHn5ZF4Uo/0.jpg)](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
-
-Here's a slightly more in depth video that tries to explain the basic functioning of a neural network:
-[![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
-
 tl;dr: training data + trial and error
