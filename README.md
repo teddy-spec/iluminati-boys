@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://img.youtube.com/vi/r1jng79a5xc/0.jpg"></img></a>
+  <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://www.shemazing.net/wp-content/uploads/2015/06/celebrity-face-swaps-17-michelle-and-barack-obama.jpg"></img></a>
 <br />Jennifer Lawrence/Steve Buscemi FaceSwap using the Villain model
 </p>
 
