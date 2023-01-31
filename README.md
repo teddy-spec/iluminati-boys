@@ -33,10 +33,7 @@ Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
   - [Train](#train)
   - [Convert](#convert)
   - [GUI](#gui)
-- [General notes:](#general-notes)
-- [Help I need support!](#help-i-need-support)
-  - [Discord Server](#discord-server)
-  - [FaceSwap Forum](#faceswap-forum)
+- [General notes:](#general-notes))
 - [About github.com/deepfakes](#about-githubcomdeepfakes)
   - [What is this repo?](#what-is-this-repo)
   - [Why this repo?](#why-this-repo)
@@ -138,5 +135,3 @@ The joshua-wu repo seems not active. Simple bugs like missing _http://_ in front
 
 ## What if /u/deepfakes feels bad about that?
 This is a friendly typosquat, and it is fully dedicated to the project. If /u/deepfakes wants to take over this repo/user and drive the project, he is welcomed to do so (Raise an issue, and he will be contacted on Reddit). Please do not send /u/deepfakes messages for help with the code you find here.
-
-tl;dr: training data + trial and error
