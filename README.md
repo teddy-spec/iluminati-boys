@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://www.shemazing.net/wp-content/uploads/2015/06/celebrity-face-swaps-17-michelle-and-barack-obama.jpg"></img></a>
-<br />Jennifer Lawrence/Steve Buscemi FaceSwap using the Villain model
+<br />Michelle and Barack Obama
 </p>
 
 ![Build Status](https://github.com/deepfakes/faceswap/actions/workflows/pytest.yml/badge.svg) [![Documentation Status](https://readthedocs.org/projects/faceswap/badge/?version=latest)](https://faceswap.readthedocs.io/en/latest/?badge=latest)
